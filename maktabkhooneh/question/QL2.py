@@ -1,0 +1,4 @@
+a = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+a[::2] = 10, 20, 30, 40, 50, 60
+print(a)
+# this is a 4answer question and answer true is first option = ValueError: attempt to assign sequence of size 6 to extended slice of size 5

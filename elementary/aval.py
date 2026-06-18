@@ -14,4 +14,4 @@ for i in range (1 , 10001):
         print (i)
 print ("")
 print ("we had" , aval_count , "aval_number")        
-print ("akharin adad aval hastesh" , akharin_adad_aval)
+print ("akharin adad aval hastesh" , akharin_adad_aval) 
